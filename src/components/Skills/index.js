@@ -38,7 +38,7 @@ const Skills = () => {
                         I am looking for a role in a company with oppurtinity to work with
                         latest technologies in web development.
                     </p>
-                    <Link to="../public/Resume.pdf" className="flat-button" target="_blank">
+                    <Link to="/Resume.pdf" className="flat-button" target="_blank">
                         RESUME
                     </Link>
                 </div>
