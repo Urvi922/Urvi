@@ -40,7 +40,7 @@ const Skills = () => {
                         latest technologies in web development.
                     </p>
 
-                    <Link to="/Resume.pdf" className="flat-button" target="_blank">
+                    <Link to="/public/Resume.pdf" className="flat-button" target="_blank">
                         RESUME
                     </Link>
                    
