@@ -42,7 +42,7 @@ const WordCloud = () => {
     useEffect(() => {
         if(isLoading) {
             TagCloud(container, texts, options)
-            console.log('i fire once')
+            // console.log('i fire once')
             setLoad(false)
         }
     })
