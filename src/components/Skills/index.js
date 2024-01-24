@@ -4,6 +4,7 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
 import WordCloud from './wordcloud'
+import { Viewer } from '@react-pdf-viewer/core';
 
 const Skills = () => {
     const [letterClass, setletterClass] = useState('text-animate')
@@ -38,9 +39,11 @@ const Skills = () => {
                         I am looking for a role in a company with oppurtinity to work with
                         latest technologies in web development.
                     </p>
+
                     <Link to="/Resume.pdf" className="flat-button" target="_blank">
                         RESUME
                     </Link>
+                   
                 </div>
 
                 <div className="tagcloud-wrap">
