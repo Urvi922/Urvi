@@ -40,10 +40,13 @@ const Skills = () => {
                         latest technologies in web development.
                     </p>
 
-                    <Link to="/Resume.pdf" className="flat-button" target="_blank">
+                    {/* <Link to="/Resume.pdf" className="flat-button" target="_blank">
+                        RESUME
+                    </Link>   */}
+                    <Link to="#" className="flat-button" onClick={() => window.open('/Resume.pdf', '_blank')}>
                         RESUME
                     </Link>
-                   
+
                 </div>
 
                 <div className="tagcloud-wrap">
