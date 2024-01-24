@@ -43,7 +43,7 @@ const Skills = () => {
                     {/* <Link to="/Resume.pdf" className="flat-button" target="_blank">
                         RESUME
                     </Link>   */}
-                    <Link to="#" className="flat-button" onClick={() => window.open('/Resume.pdf', '_blank')}>
+                    <Link to="#" className="flat-button" onClick={() => window.open('/public/Resume.pdf', '_blank')}>
                         RESUME
                     </Link>
 
