@@ -47,7 +47,7 @@ const About = () => {
                     </p>
                     <p>
                         I thrive in collaborative work environments. So far I have worked with Python, C##, JavaScript. 
-                        I am most comfortable in workign with Python.
+                        I am most comfortable in working with Python.
                     </p>
                     <p>
                         I can be described as hardworking, dedicated and a reader !!!!!!

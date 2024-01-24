@@ -55,14 +55,15 @@ const Sidebar = () => {
                         </a>
                     </li>
                     <li>
-                        <a 
-                            herf="https://github.com/Urvi922"
+                        <a
+                            href="https://github.com/Urvi922"
                             target="_blank"
                             rel="noreferrer"
                         >
                             <FontAwesomeIcon icon={faGithub} color="#b9b9b9" />
                         </a>
                     </li>
+                   
                 </ul>
             </div>
         </>
