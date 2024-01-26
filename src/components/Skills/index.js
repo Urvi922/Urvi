@@ -43,9 +43,13 @@ const Skills = () => {
                     {/* <Link to="/Resume.pdf" className="flat-button" target="_blank">
                         RESUME
                     </Link>   */}
-                    <Link to="#" className="flat-button" onClick={() => window.open('https://github.com/Urvi922/Urvi/blob/2dcc1c0b53b8a6bc91677dd45de6f961e4431981/public/Resume.pdf', '_blank')}>
+                    {/* <Link to="#" className="flat-button" onClick={() => window.open('https://github.com/Urvi922/Urvi/blob/2dcc1c0b53b8a6bc91677dd45de6f961e4431981/public/Resume.pdf', '_blank')}>
                         RESUME
-                    </Link>
+                    </Link> */}
+
+                    <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
+                        Resume
+                    </a>
 
                 </div>
 
