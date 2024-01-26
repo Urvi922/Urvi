@@ -47,7 +47,7 @@ const Skills = () => {
                         RESUME
                     </Link> */}
 
-                    <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
+                    <a className="flat-button" href="/Resume.pdf"  target="_blank" rel="noopener noreferrer">
                         Resume
                     </a>
 
