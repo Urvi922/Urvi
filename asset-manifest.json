@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Urvi/static/css/main.2d577470.css",
-    "main.js": "/Urvi/static/js/main.f89b3bdc.js",
+    "main.css": "/Urvi/static/css/main.29acb53c.css",
+    "main.js": "/Urvi/static/js/main.c551f1ed.js",
     "static/media/unew.png": "/Urvi/static/media/unew.cd0857b5adc70cd057cf.png",
     "static/media/urvi-logo.png": "/Urvi/static/media/urvi-logo.a9ae3fc561433154d024.png",
     "static/media/helvetica-neu.ttf": "/Urvi/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff": "/Urvi/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
     "static/media/CoolveticaRg-Regular.woff2": "/Urvi/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Urvi/index.html",
-    "main.2d577470.css.map": "/Urvi/static/css/main.2d577470.css.map",
-    "main.f89b3bdc.js.map": "/Urvi/static/js/main.f89b3bdc.js.map"
+    "main.29acb53c.css.map": "/Urvi/static/css/main.29acb53c.css.map",
+    "main.c551f1ed.js.map": "/Urvi/static/js/main.c551f1ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d577470.css",
-    "static/js/main.f89b3bdc.js"
+    "static/css/main.29acb53c.css",
+    "static/js/main.c551f1ed.js"
   ]
 }
