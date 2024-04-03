@@ -51,7 +51,7 @@ const Home = () => {
                         />
                     </h1>
                     <h2>
-                        Full Stack Web Developer / Data Analysis
+                        Learner of life / Seeker of purpose
                     </h2>
                     <Link to="/contact" className="flat-button">
                         CONTACT ME
