@@ -51,7 +51,7 @@ const Home = () => {
                         />
                     </h1>
                     <h2>
-                        Learner of life / Seeker of purpose
+                        Learning from life / Seeking purpose
                     </h2>
                     <Link to="/contact" className="flat-button">
                         CONTACT ME
